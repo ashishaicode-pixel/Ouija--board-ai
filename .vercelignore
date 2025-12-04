@@ -1,3 +1,5 @@
 node_modules
 .env
 test-gemini.js
+server.js
+index.js
